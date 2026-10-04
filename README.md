@@ -19,7 +19,3 @@ GameGuide is a Data Science Lab mini project that provides:
 - NLTK
 - RapidFuzz
 - Streamlit
-
-## Project Status
-
-Step 0 - Project Setup
