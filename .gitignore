@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Generated data
+data/processed/
+
+# Saved models
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
